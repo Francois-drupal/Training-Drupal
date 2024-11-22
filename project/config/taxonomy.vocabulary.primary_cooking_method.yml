@@ -1,0 +1,9 @@
+uuid: 7c4cb3ed-7d84-4f54-b202-f33b2f315544
+langcode: en
+status: true
+dependencies: {  }
+name: 'Primary Cooking Method'
+vid: primary_cooking_method
+description: null
+weight: 0
+new_revision: false
